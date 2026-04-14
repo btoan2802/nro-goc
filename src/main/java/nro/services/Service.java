@@ -223,349 +223,180 @@ public class Service {
         }
     }
 
-    int test = 0;
-
     public void chat(Player player, String text) {
-//         if (player.getSession() != null && player.isAdmin()) {}
         if (player.getSession() != null && player.isAdmin()) {
-            if (text.equals("logskill")) {
-                // Service.getInstance().sendThongBao(player,
-                // player.playerSkill.skillSelect.coolDown + "");
-                return;
-            }
-            if (text.equals("jk")) {
-                Input.gI().createFormSenditem1(player);
-                return;
-            }
-           if (text.equals("boss")) {
-               BossManager.gI().showListBoss(player);
-               return;
-           }
-            if (text.equals("admin")) {
-                Client.gI().show(player);
-                return;
-
-            }
-            if (text.equals("black2")) {
-                PetService.gI().changeWuKOngPet(player, player.gender);
-                return;
-
-            }
-            if (text.equals("pet1")) {
-                PetService.gI().changeGoku1Pet(player, player.gender);
-                return;
-
-            } else if (text.equals("test")) {
-                // Input.gI().createFormChooseLevelCDRD(player);
-                // for (int i = 0; i < 10; i++) {
-                // Item item = ItemService.gI().createNewItem((short) 2039);
-                // UseItem.gI().openboxsukien(player, item, 4);
-                // }
-            }
-            if (text.startsWith("i")) {
-                String[] parts = text.split(" ");
-                if (parts.length >= 3) {
-                    short id = Short.parseShort(parts[1]);
-                    int quantity = Integer.parseInt(parts[2]);
-                    Item item = ItemService.gI().createNewItem(id, quantity);
-                    InventoryService.gI().addItemBag(player, item, quantity);
-                    InventoryService.gI().sendItemBags(player);
-                    Service.getInstance().sendThongBao(player, "Bạn nhận được " + item.template.name + " số lượng: " + quantity);
-                    return;
-                } else {
-                    Service.getInstance().sendThongBao(player, "Lỗi");
-                    return;
-                }
-            }
-            if (text.equals("outfit")) {
-                getInstance().sendThongBao(player, player.getHead() + " - " + player.getBody() + " - " + player.getLeg());
-                return;
-            }
-            if (text.equals("loadauction")) {
-                AuctionService.gI().loadAuction();
-            }
-
-            if (text.equals("tele")) {
-                this.sendThongBao(player, "Thực thi lệnh thành công");
-                List<Player> playersMap = Client.gI().getPlayers();
-                for (Player pl : playersMap) {
-                    if (pl != null && !player.equals(pl)) {
-                        if (pl.zone != null) {
-                            ChangeMapService.gI().changeMap(pl, player.zone, player.location.x, player.location.y);
-                        }
-                        Service.getInstance().sendThongBao(pl, "|2|Bạn đã được ADMIN gọi đến đây");
-                    }
-                }
-                return;
-            }
-            if (text.equals("hsk")) {
-                Service.getInstance().releaseCooldownSkill(player);
-                PlayerService.gI().hoiPhuc(player, player.nPoint.hpMax, player.nPoint.mpMax);
-                return;
-
-            } else if (text.equals("loadshop")) {
-                Manager.ReloadShop();
-                Service.getInstance().sendThongBao(player, "RELOAD SHOP !");
-                return;
-
-            } else if (text.equals("rate")) {
-                SettingGame.num7Sao = Util.nextInt(1200, 1700);
-                SettingGame.num8Sao = Util.nextInt(2500, 3000);
-                Service.getInstance().sendThongBao(player, "RATE 7S : " + SettingGame.num7Sao + " RATE 8S : " + SettingGame.num8Sao);
-                return;
-
-            } else if (text.startsWith("bc ")) {
-                String[] parts = text.split(" ");
-                if (parts.length < 3) {
-                    Service.getInstance().sendThongBao(player, "Vui lòng nhập kết quả trả về!");
-                    return;
-                }
-                int index = Integer.parseInt(parts[1]);
-                int result = Integer.parseInt(parts[2]);
-
-                switch (index) {
-                    case 1:
-                        Manager.x = result;
-                        Manager.cheat = true;
-                        break;
-                    case 2:
-                        Manager.y = result;
-                        Manager.cheat = true;
-                        break;
-                    case 3:
-                        Manager.z = result;
-                        Manager.cheat = true;
-                        break;
-                }
-                Service.getInstance().sendThongBao(player,
-                        "Bầu cua viên : " + index + "\nThành : " + Chonaiday.gI().getNameBauCua(result));
-            } else if (text.startsWith("bcc")) {
-                Manager.BotBauCua = !Manager.BotBauCua;
-                Service.getInstance().sendThongBao(player,
-                        "Bot đánh bầu cua " + (Manager.BotBauCua == true ? "Bật" : "Tắt"));
-
-            } else if (text.equals("ad")) {
-                    Input.gI().createFormNhapPasswordAdmin(player);
-                    return;
-//                String str = "";
-//                NpcService.gI().createMenuConMeo(player, ConstNpc.MENU_ADMIN, -1,
-//                        "|1|Manager " + SettingGame.NAME_GAME + " Server. \n"
-//                        + "|7|Thread Quantity : " + Thread.activeCount() + "\n"
-//                        + "|2|Số lượng người chơi hiện tại: " + Client.gI().getPlayers().size() + "\n" + str,
-//                        "Ngọc rồng", "Đệ tử", "Bảo trì", "Bảo trì\n5s", "Tìm kiếm\nngười chơi", "Cập Nhật\nThông Báo",
-//                        "Call Boss",
-//                        "Đóng");
-//                return;
-            } else if (text.equals("adbuff")) {
-                String str = "";
-                NpcService.gI().createMenuConMeo(player, ConstNpc.MENU_ADMIN_2, -1,
-                        "Count " + SettingGame.NAME_GAME + " Server. "
-                        + "Số lượng người chơi hiện tại: " + Client.gI().getPlayers().size() + "\n" + str,
-                        "x99 Hộp\nthần linh\nKý gửi", "x99 Hộp\nhủy diệt", "Tăng \n50 tỷ\nTNSM", "Cộng\nFull Skill",
-                        "Chỉ số gốc\nHP KI MP\n+ 10 triệu", "Nhận\nđệ tử",
-                        "Đóng");
-                return;
-            } else if (text.equals("adload")) {
-                String str = "";
-                NpcService.gI().createMenuConMeo(player, ConstNpc.MENU_ADMIN_3, -1,
-                        "Count " + SettingGame.NAME_GAME + " Server. "
-                        + "Số lượng người chơi hiện tại: " + Client.gI().getPlayers().size() + "\n"
-                        + str,
-                        "Load shop", "Cộng\nVND", "Rest Boss", "Butitem\n(new)",
-                        "Đóng");
-                return;
-            } else if (text.equals("ken3")) {
-                NpcService.gI().createMenuConMeo(player, ConstNpc.MENU_ADMIN_TEST, -1,
-                        "Count " + SettingGame.NAME_GAME + " Server. "
-                        + "Số lượng người chơi hiện tại: " + Client.gI().getPlayers().size() + "\n",
-                        "Nhận Item\nWeb",
-                        "Đóng");
-                return;
-            } else if (text.equals("cban")) {
-                if (player.lastTimeBan2 > 0) {
-                    if (!Util.canDoWithTime(player.lastTimeBan2, 86_400_000)) {
-                        Service.getInstance().sendThongBaoOK(player,
-                                "Tài khoản của bạn đang tạm khóa 24h do sử dụng tool, bạn không thể sử dụng kỹ năng gây sát thương trong lúc này "
-                                + (System.currentTimeMillis() - player.lastTimeBan2));
-                    } else {
-                        Service.getInstance().sendThongBaoOK(player,
-                                "Het ban " + System.currentTimeMillis() + " + " + player.lastTimeBan2
-                                + (System.currentTimeMillis() - player.lastTimeBan2) + "\n");
-                    }
-
-                } else {
-                    Service.getInstance().sendThongBaoOK(player,
-                            "Khong ban "
-                            + (System.currentTimeMillis() - player.lastTimeBan2));
-                }
-
-                return;
-            } else if (text.equals("ban")) {
-                // Gán thời điểm bắt đầu ban
-                player.lastTimeBan2 = System.currentTimeMillis();
-                // Hiển thị thông báo xác nhận
-                Service.getInstance().sendThongBaoOK(player,
-                        "Tài khoản của bạn đã bị khóa 24h do sử dụng tool. Thời gian bắt đầu: " + player.lastTimeBan2);
-                return;
-
-            } else if (text.startsWith("cc")) {
-                short id = Short.parseShort(text.replace("cc ", ""));
-                Item item = ItemService.gI().createNewItem(id);
-                InventoryService.gI().addItemBag(player, item, 0);
-                InventoryService.gI().sendItemBags(player);
-                Service.getInstance().sendThongBao(player, "Bạn nhận được " + item.template.name);
-                return;
-            } else if (text.startsWith("tet")) {
-                short id = Short.parseShort(text.replace("tet ", ""));
-                Manager.EVENT_POINT_TET_2024 = id;
-                Service.getInstance().sendThongBao(player,
-                        "Cộng điểm thành công, tổng điểm của sv là " + Manager.EVENT_POINT_TET_2024);
-                return;
-            } else if (text.equals("ao")) {
-                Referee101 rr = new Referee101();
-                rr.initForAdmin(player);
-                return;
-            } else if (text.equals("ao1")) {
-                Referee202 rr = new Referee202();
-                rr.initForAdmin(player);
-                return;
-            } else if (text.equals("vt")) {
-                Service.getInstance().sendThongBaoOK(player, "x: " + player.location.x + " - y: " + player.location.y);
-                return;
-//            } else if (text.equals("boss")) {
-//                BossManager.gI().showListBoss(player);
-//                return;
-            } else if (text.startsWith("im ")) {
-                String[] parts = text.split(" ");
-                long quantity = 1;
-                if (parts.length >= 3) {
-                    quantity = Long.parseLong(parts[2]);
-                    if (quantity < 0 || quantity > 2000000000) {
-                        Service.getInstance().sendThongBao(player, "Số lượng không hợp lệ!");
-                        return;
-                    }
-                }
-                int itemId = Integer.parseInt(parts[1]);
-
-                if (itemId < 0 || itemId > 2067) {
-                    Service.getInstance().sendThongBao(player, "Id không hợp lệ");
-                    return;
-                }
-                Item item = ItemService.gI().createNewItem((short) itemId);
-
-                ItemService.gI().OptionAllItem(item, 0);
-                item.quantity = (int) quantity;
-                if (item.template.id == 457) {
-                    Logger.errorSaveHistGoldBar(player, (int) quantity, (byte) 1,
-                            "ADMIN BUFF " + item.template.name);
-                }
-                ItemShop itemShop = new Shop().getItemShop(itemId);
-                if (itemShop != null && !itemShop.options.isEmpty()) {
-                    item.itemOptions.addAll(itemShop.options);
-                }
-                InventoryService.gI().addItemBag(player, item, (int) quantity);
-                InventoryService.gI().sendItemBags(player);
-                Service.getInstance().sendThongBao(player,
-                        "Đã lấy vật phẩm: " + item.template.name + " Số lượng: " + quantity);
-            } else if (text.startsWith("sao ")) {
-                String[] parts = text.split(" ");
-                if (parts.length < 3) {
-                    Service.getInstance().sendThongBao(player, "Vui lòng nhập số sao!");
-                    return;
-                }
-                int index = Integer.parseInt(parts[1]);
-                int sao = Integer.parseInt(parts[2]);
-                if (sao > 8) {
-                    Service.getInstance().sendThongBao(player, "Không thể lấy số lượng vượt quá 8 sao!");
-                    return;
-                }
-                Item item = player.inventory.itemsBody.get(index);
-                if (item.isNotNullItem()) {
-                    boolean isSPL = false;
-
-                    for (ItemOption io : item.itemOptions) {
-                        if (io.optionTemplate.id == ConstOption.SAO_PHA_LE_CHUA_EP) {
-                            isSPL = true;
-                            break;
+            try {
+                // 1. Lệnh Buff Item: "buff <id> <quantity>"
+                if (text.startsWith("buff")) {
+                    String[] parts = text.split(" ");
+                    if (parts.length >= 3) {
+                        short id = Short.parseShort(parts[1]);
+                        int quantity = Integer.parseInt(parts[2]);
+                        Item item = ItemService.gI().createNewItem(id, quantity);
+                        if (item != null) {
+                            InventoryService.gI().addItemBag(player, item, quantity);
+                            InventoryService.gI().sendItemBags(player);
+                            Service.getInstance().sendThongBao(player, "Nhận: " + item.template.name);
                         }
                     }
-                    if (!isSPL) {
-                        item.itemOptions.add(new ItemOption(ConstOption.SAO_PHA_LE_CHUA_EP, sao));
-                    } else {
-                        for (ItemOption io : item.itemOptions) {
-                            if (io.optionTemplate.id == ConstOption.SAO_PHA_LE_CHUA_EP) {
-                                io.param = sao;
-                                break;
-                            }
+                    return;
+                }
+                // Dùng phím tắt 'i' cho buff item nhanh
+                if (text.startsWith("i ")) {
+                    String[] parts = text.split(" ");
+                    if (parts.length >= 3) {
+                        short id = Short.parseShort(parts[1]);
+                        int quantity = Integer.parseInt(parts[2]);
+                        Item item = ItemService.gI().createNewItem(id, quantity);
+                        if (item != null) {
+                            InventoryService.gI().addItemBag(player, item, quantity);
+                            InventoryService.gI().sendItemBags(player);
+                            Service.getInstance().sendThongBao(player, "Nhận: " + item.template.name);
                         }
                     }
+                    return;
+                }
 
-                    InventoryService.gI().sendItemBags(player);
-                    Service.getInstance().sendThongBao(player,
-                            "Nâng thành công trang bị " + item.template.name + " lên " + sao + " sao");
-                } else {
-                    Service.getInstance().sendThongBao(player,
-                            "Không tồn tại trang bị");
+                // 2. Lệnh Menu Admin tổng hợp: "admin"
+                if (text.equals("admin")) {
+                    String info = "|7|--ADMIN MENU--\n|4|Online: " + Client.gI().getPlayers().size();
+                    NpcService.gI().createMenuConMeo(player, ConstNpc.MENU_ADMIN, -1, info,
+                            "Bảo trì", "Ngọc rồng", "Đệ tử", "Buff Item", "Đổi hành tinh", "Đóng");
                     return;
                 }
-            } else if (text.startsWith("upp")) {
-                try {
-                    long power = Long.parseLong(text.replaceAll("upp", ""));
-                    addSMTN(player.pet, (byte) 2, power, false);
+
+                // 3. Lệnh Dịch chuyển Map: "m <mapId>"
+                if (text.startsWith("m ")) {
+                    int mapId = Integer.parseInt(text.substring(2));
+                    ChangeMapService.gI().changeMapInYard(player, mapId, -1, 500);
                     return;
-                } catch (Exception e) {
-                    e.printStackTrace();
                 }
-            } else if (text.startsWith("up")) {
-                try {
-                    long power = Long.parseLong(text.replaceAll("up", ""));
+
+                // 4. Lệnh Set chỉ số nhanh: hp, ki, sd, def, crit
+                if (text.startsWith("hp ")) {
+                    int hp = Integer.parseInt(text.replace("hp ", ""));
+                    player.nPoint.hpg = hp;
+                    player.nPoint.calPoint();
+                    player.nPoint.hp = player.nPoint.hpMax;
+                    PlayerService.gI().sendInfoHpMpMoney(player);
+                    Service.getInstance().sendThongBao(player, "Set HP gốc: " + hp);
+                    return;
+                }
+                if (text.startsWith("ki ")) {
+                    int ki = Integer.parseInt(text.replace("ki ", ""));
+                    player.nPoint.mpg = ki;
+                    player.nPoint.calPoint();
+                    player.nPoint.mp = player.nPoint.mpMax;
+                    PlayerService.gI().sendInfoHpMpMoney(player);
+                    Service.getInstance().sendThongBao(player, "Set KI gốc: " + ki);
+                    return;
+                }
+                if (text.startsWith("sd ")) {
+                    int sd = Integer.parseInt(text.replace("sd ", ""));
+                    player.nPoint.dameg = sd;
+                    player.nPoint.calPoint();
+                    Service.getInstance().point(player);
+                    Service.getInstance().sendThongBao(player, "Set Sức đánh gốc: " + sd);
+                    return;
+                }
+                if (text.startsWith("def ")) {
+                    int def = Integer.parseInt(text.replace("def ", ""));
+                    player.nPoint.defg = def;
+                    player.nPoint.calPoint();
+                    Service.getInstance().point(player);
+                    Service.getInstance().sendThongBao(player, "Set Giáp gốc: " + def);
+                    return;
+                }
+                if (text.startsWith("crit ")) {
+                    int crit = Integer.parseInt(text.replace("crit ", ""));
+                    player.nPoint.critg = crit;
+                    player.nPoint.calPoint();
+                    Service.getInstance().point(player);
+                    Service.getInstance().sendThongBao(player, "Set Chí mạng gốc: " + crit);
+                    return;
+                }
+
+                // 5. Các lệnh Reload Data: loadshop, loadbt, loadvq
+                if (text.equals("loadshop")) {
+                    Manager.ReloadShop();
+                    Service.getInstance().sendThongBao(player, "Reload Shop thành công!");
+                    return;
+                }
+                if (text.equals("loadbt")) {
+                    Manager.gI().ReloadBoss();
+                    Service.getInstance().sendThongBao(player, "Reload Boss thành công!");
+                    return;
+                }
+                if (text.equals("loadvq")) {
+                    Manager.ReloadShop(); // Thường reload shop sẽ reload luôn lucky round
+                    Service.getInstance().sendThongBao(player, "Reload Vòng quay thành công!");
+                    return;
+                }
+
+                // 6. Lệnh thông báo thế giới: "chat <nội dung>"
+                if (text.startsWith("chat ")) {
+                    String msg = text.replace("chat ", "");
+                    HeThongChatGlobal(msg);
+                    return;
+                }
+
+                // Giữ lại một số lệnh admin cũ hữu ích
+                if (text.equals("boss")) {
+                    BossManager.gI().showListBoss(player);
+                    return;
+                }
+                if (text.equals("hsk")) {
+                    Service.getInstance().releaseCooldownSkill(player);
+                    PlayerService.gI().hoiPhuc(player, player.nPoint.hpMax, player.nPoint.mpMax);
+                    return;
+                }
+                if (text.startsWith("up ")) {
+                    long power = Long.parseLong(text.replace("up ", ""));
                     addSMTN(player, (byte) 2, power, false);
                     return;
-                } catch (Exception e) {
                 }
-            } else if (text.startsWith("m ")) {
-                try {
-                    int mapId = Integer.parseInt(text.replace("m ", ""));
-                    Zone zone = MapService.gI().getZoneJoinByMapIdAndZoneId(player, mapId, 0);
-                    if (zone != null) {
-                        if (!MapService.gI().isMapBanDoKhoBau(mapId) && !MapService.gI().isMapDoanhTrai(mapId)) {
-                            player.location.x = 500;
-                            player.location.y = zone.map.yPhysicInTop(500, 100);
-                            MapService.gI().goToMap(player, zone);
-                            Service.getInstance().clearMap(player);
-                            zone.mapInfo(player);
-                            player.zone.loadAnotherToMe(player);
-                            player.zone.load_Me_To_Another(player);
-                        } else {
-                            Service.getInstance().sendThongBaoOK(player,
-                                    "Không thể vào bản đồ kho báu hoặc doanh trại bằng lệnh chat ADMIN");
-                        }
-                    }
+                if (text.startsWith("upp ")) {
+                    long power = Long.parseLong(text.replace("upp ", ""));
+                    addSMTN(player.pet, (byte) 2, power, false);
                     return;
-                } catch (Exception e) {
-                    e.printStackTrace();
                 }
+
+            } catch (Exception e) {
+                Service.getInstance().sendThongBao(player, "Lệnh sai cú pháp hoặc lỗi hệ thống!");
             }
         }
+
+        // Lệnh cho người chơi thường
+        if (text.equals("tt")) {
+            infoall(player);
+            return;
+        }
+
         if (text.startsWith("ten con la ")) {
             PetService.gI().changeNamePet(player, text.replaceAll("ten con la ", ""));
+            return;
         }
-         if (text.equals("tbb")) {
-             BossManager.gI().showListBoss1(player);
-         }
+
         if (player.pet != null) {
-            if (text.equals("di theo") || text.equals("follow")) {
+            String petText = text.toLowerCase();
+            if (petText.equals("di theo") || petText.equals("follow")) {
                 player.pet.changeStatus(Pet.FOLLOW);
-            } else if (text.equals("bao ve") || text.equals("protect")) {
+                return;
+            } else if (petText.equals("bao ve") || petText.equals("protect")) {
                 player.pet.changeStatus(Pet.PROTECT);
-            } else if (text.equals("tan cong") || text.equals("attack")) {
+                return;
+            } else if (petText.equals("tan cong") || petText.equals("attack")) {
                 player.pet.changeStatus(Pet.ATTACK);
-            } else if (text.equals("ve nha") || text.equals("go home")) {
+                return;
+            } else if (petText.equals("ve nha") || petText.equals("go home")) {
                 player.pet.changeStatus(Pet.GOHOME);
-            } else if (text.equals("bien hinh")) {
+                return;
+            } else if (petText.equals("bien hinh")) {
                 player.pet.transform();
+                return;
             }
         }
+
         text = transformText(text);
         if (text.length() > 100) {
             text = text.substring(0, 100);
@@ -604,6 +435,23 @@ public class Service {
                 .replaceAll("congsan", "***")
                 .replaceAll("cặc", "***");
         return text;
+    }
+
+    public void infoall(Player player) {
+        String info = "|0|-- THÔNG TIN NHÂN VẬT --\n"
+                + "|1|Họ tên: " + player.name + "\n"
+                + "|1|Sức mạnh: " + Util.formatNumber(player.nPoint.power) + "\n"
+                + "|2|Tiềm năng: " + Util.formatNumber(player.nPoint.tiemNang) + "\n"
+                + "|7|HP: " + Util.formatNumber(player.nPoint.hp) + "/" + Util.formatNumber(player.nPoint.hpMax) + "\n"
+                + "|4|KI: " + Util.formatNumber(player.nPoint.mp) + "/" + Util.formatNumber(player.nPoint.mpMax) + "\n"
+                + "|2|Sức đánh: " + Util.formatNumber(player.nPoint.dame) + "\n"
+                + "|2|Giáp: " + Util.formatNumber(player.nPoint.def) + "\n"
+                + "|2|Chí mạng: " + player.nPoint.crit + "%";
+        sendThongBaoOK(player, info);
+    }
+
+    public void HeThongChatGlobal(String text) {
+        sendThongBaoAllPlayer(text);
     }
 
     public void chatMap(Player player, String text) {
