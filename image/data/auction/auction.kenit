@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Phiên đấu giá 1",
+   "startTime": 1758293400000,
+"endTime": 1758298800000
+    "startingPrice": 200,
+    "stepPrice": 20,
+    "typePriceAuction": "GOLD_BAR",
+    "itemsAuction": [
+      {
+        "temp_id": 543,
+        "quantity": 1,
+        "options": [
+          {
+            "id": 11,
+            "param": 499
+          },
+          {
+            "id": 44,
+            "param": 80
+          }
+        ]
+      }
+    ]
+  }
+]

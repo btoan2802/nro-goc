@@ -1,0 +1,777 @@
+[2026-04-12 08:34:04 WARN  Log:39] LINK_IP_PORT NroBT:127.0.0.1:14445:0,0,0:0
+[2026-04-12 08:38:58 WARN  Log:39] LINK_IP_PORT NroBT:127.0.0.1:14445:0,0,0:0
+[2026-04-12 08:39:15 WARN  Log:39] LINK_IP_PORT NroBT:127.0.0.1:14445:0,0,0:0
+[2026-04-12 08:43:24 WARN  Log:39] LINK_IP_PORT NroBT:127.0.0.1:14445:0,0,0:0
+[2026-04-12 08:43:25 DEBUG Log:30] Load part thành công (1674)
+[2026-04-12 08:43:25 DEBUG Log:30] Load map template thành công (181)
+[2026-04-12 08:43:25 DEBUG Log:30] Load skill thành công (4)
+[2026-04-12 08:43:25 DEBUG Log:30] Load head avatar thành công (389)
+[2026-04-12 08:43:25 DEBUG Log:30] Load head 2 frames thanh cong (28)
+[2026-04-12 08:43:25 DEBUG Log:30] Load flag bag thành công (133)
+[2026-04-12 08:43:25 DEBUG Log:30] Load c?i trang thành công (383)
+[2026-04-12 08:43:25 DEBUG Log:30] Load intrinsic thành công (26)
+[2026-04-12 08:43:25 DEBUG Log:30] Load task thành công (32)
+[2026-04-12 08:43:25 DEBUG Log:30] Load side task thành công (59)
+[2026-04-12 08:43:25 DEBUG Log:30] Load map hú búuuuuuuuuuuuuuu item template thành công (2068)
+[2026-04-12 08:43:25 DEBUG Log:30] Load map item option template thành công (255)
+[2026-04-12 08:43:25 DEBUG Log:30] Load shop thành công (58)
+[2026-04-12 08:43:25 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-12 08:43:25 DEBUG Log:30] Load ratio round thành công! 
+[2026-04-12 08:43:25 DEBUG Log:30] Load reward máy g?p thú th??ng round thành công! 
+[2026-04-12 08:43:25 DEBUG Log:30] Load reward g?p thú cao c?p thành công! 
+[2026-04-12 08:43:25 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-12 08:43:25 DEBUG Log:30] Load reward lucky round thành công (82)
+[2026-04-12 08:43:25 DEBUG Log:30] Load mob template thành công (96)
+[2026-04-12 08:43:25 DEBUG Log:30] Load npc template thành công (92)
+[2026-04-12 08:43:26 DEBUG Log:30] Init map thành công!
+[2026-04-12 08:43:26 DEBUG Log:30] Load clan thành công (41), clan next id: 229
+[2026-04-12 08:43:26 DEBUG Log:21] T?ng th?i gian load database: 1913(ms)
+[2026-04-12 08:43:28 DEBUG Log:21] Start server......... Current thread: 3205
+[2026-04-12 08:48:36 WARN  Log:39] LINK_IP_PORT NroBT:127.0.0.1:14445:0,0,0:0
+[2026-04-12 08:48:37 DEBUG Log:30] Load part thành công (1674)
+[2026-04-12 08:48:37 DEBUG Log:30] Load map template thành công (181)
+[2026-04-12 08:48:37 DEBUG Log:30] Load skill thành công (4)
+[2026-04-12 08:48:37 DEBUG Log:30] Load head avatar thành công (389)
+[2026-04-12 08:48:37 DEBUG Log:30] Load head 2 frames thanh cong (28)
+[2026-04-12 08:48:37 DEBUG Log:30] Load flag bag thành công (133)
+[2026-04-12 08:48:37 DEBUG Log:30] Load c?i trang thành công (383)
+[2026-04-12 08:48:37 DEBUG Log:30] Load intrinsic thành công (26)
+[2026-04-12 08:48:37 DEBUG Log:30] Load task thành công (32)
+[2026-04-12 08:48:37 DEBUG Log:30] Load side task thành công (59)
+[2026-04-12 08:48:37 DEBUG Log:30] Load map hú búuuuuuuuuuuuuuu item template thành công (2068)
+[2026-04-12 08:48:37 DEBUG Log:30] Load map item option template thành công (255)
+[2026-04-12 08:48:37 DEBUG Log:30] Load shop thành công (58)
+[2026-04-12 08:48:37 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-12 08:48:37 DEBUG Log:30] Load ratio round thành công! 
+[2026-04-12 08:48:37 DEBUG Log:30] Load reward máy g?p thú th??ng round thành công! 
+[2026-04-12 08:48:37 DEBUG Log:30] Load reward g?p thú cao c?p thành công! 
+[2026-04-12 08:48:37 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-12 08:48:37 DEBUG Log:30] Load reward lucky round thành công (82)
+[2026-04-12 08:48:37 DEBUG Log:30] Load mob template thành công (96)
+[2026-04-12 08:48:37 DEBUG Log:30] Load npc template thành công (92)
+[2026-04-12 08:48:38 DEBUG Log:30] Init map thành công!
+[2026-04-12 08:48:38 DEBUG Log:30] Load clan thành công (41), clan next id: 229
+[2026-04-12 08:48:38 DEBUG Log:21] T?ng th?i gian load database: 1894(ms)
+[2026-04-12 08:48:39 DEBUG Log:21] Start server......... Current thread: 3206
+[2026-04-12 20:11:28 WARN  Log:39] LINK_IP_PORT NroBT:btoan.com:14445:0,0,0:0
+[2026-04-12 20:11:29 DEBUG Log:30] Load part thành công (1674)
+[2026-04-12 20:11:29 DEBUG Log:30] Load map template thành công (181)
+[2026-04-12 20:11:29 DEBUG Log:30] Load skill thành công (4)
+[2026-04-12 20:11:29 DEBUG Log:30] Load head avatar thành công (389)
+[2026-04-12 20:11:29 DEBUG Log:30] Load head 2 frames thanh cong (14)
+[2026-04-12 20:11:29 DEBUG Log:30] Load flag bag thành công (133)
+[2026-04-12 20:11:29 DEBUG Log:30] Load c?i trang thành công (383)
+[2026-04-12 20:11:29 DEBUG Log:30] Load intrinsic thành công (26)
+[2026-04-12 20:11:29 DEBUG Log:30] Load task thành công (32)
+[2026-04-12 20:11:29 DEBUG Log:30] Load side task thành công (59)
+[2026-04-12 20:11:29 DEBUG Log:30] Load map hú búuuuuuuuuuuuuuu item template thành công (2068)
+[2026-04-12 20:11:29 DEBUG Log:30] Load map item option template thành công (255)
+[2026-04-12 20:11:30 DEBUG Log:30] Load shop thành công (58)
+[2026-04-12 20:11:30 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-12 20:11:30 DEBUG Log:30] Load ratio round thành công! 
+[2026-04-12 20:11:30 DEBUG Log:30] Load reward máy g?p thú th??ng round thành công! 
+[2026-04-12 20:11:31 DEBUG Log:30] Load reward g?p thú cao c?p thành công! 
+[2026-04-12 20:11:31 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-12 20:11:31 DEBUG Log:30] Load reward lucky round thành công (82)
+[2026-04-12 20:11:31 DEBUG Log:30] Load mob template thành công (96)
+[2026-04-12 20:11:31 DEBUG Log:30] Load npc template thành công (92)
+[2026-04-12 20:11:34 DEBUG Log:30] Init map thành công!
+[2026-04-12 20:11:35 DEBUG Log:30] Load clan thành công (41), clan next id: 229
+[2026-04-12 20:11:35 DEBUG Log:21] T?ng th?i gian load database: 7398(ms)
+[2026-04-12 20:11:38 DEBUG Log:21] Start server......... Current thread: 3203
+[2026-04-12 20:19:14 WARN  Log:39] LINK_IP_PORT NroBT:btoan.com:14446:0,0,0:0
+[2026-04-12 20:19:14 DEBUG Log:30] Load part thành công (1674)
+[2026-04-12 20:19:14 DEBUG Log:30] Load map template thành công (181)
+[2026-04-12 20:19:14 DEBUG Log:30] Load skill thành công (4)
+[2026-04-12 20:19:14 DEBUG Log:30] Load head avatar thành công (389)
+[2026-04-12 20:19:14 DEBUG Log:30] Load head 2 frames thanh cong (14)
+[2026-04-12 20:19:14 DEBUG Log:30] Load flag bag thành công (133)
+[2026-04-12 20:19:15 DEBUG Log:30] Load c?i trang thành công (383)
+[2026-04-12 20:19:15 DEBUG Log:30] Load intrinsic thành công (26)
+[2026-04-12 20:19:15 DEBUG Log:30] Load task thành công (32)
+[2026-04-12 20:19:15 DEBUG Log:30] Load side task thành công (59)
+[2026-04-12 20:19:15 DEBUG Log:30] Load map hú búuuuuuuuuuuuuuu item template thành công (2068)
+[2026-04-12 20:19:15 DEBUG Log:30] Load map item option template thành công (255)
+[2026-04-12 20:19:15 DEBUG Log:30] Load shop thành công (58)
+[2026-04-12 20:19:15 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-12 20:19:15 DEBUG Log:30] Load ratio round thành công! 
+[2026-04-12 20:19:15 DEBUG Log:30] Load reward máy g?p thú th??ng round thành công! 
+[2026-04-12 20:19:15 DEBUG Log:30] Load reward g?p thú cao c?p thành công! 
+[2026-04-12 20:19:15 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-12 20:19:15 DEBUG Log:30] Load reward lucky round thành công (82)
+[2026-04-12 20:19:15 DEBUG Log:30] Load mob template thành công (96)
+[2026-04-12 20:19:15 DEBUG Log:30] Load npc template thành công (92)
+[2026-04-12 20:19:16 DEBUG Log:30] Init map thành công!
+[2026-04-12 20:19:16 DEBUG Log:30] Load clan thành công (41), clan next id: 229
+[2026-04-12 20:19:16 DEBUG Log:21] T?ng th?i gian load database: 2257(ms)
+[2026-04-12 20:19:18 DEBUG Log:21] Start server......... Current thread: 3204
+[2026-04-12 21:10:29 WARN  Log:39] LINK_IP_PORT Nro TORA:btoan.online:14446:0,0,0:0
+[2026-04-12 21:10:30 DEBUG Log:30] Load part thành công (1674)
+[2026-04-12 21:10:30 DEBUG Log:30] Load map template thành công (181)
+[2026-04-12 21:10:30 DEBUG Log:30] Load skill thành công (4)
+[2026-04-12 21:10:30 DEBUG Log:30] Load head avatar thành công (389)
+[2026-04-12 21:10:30 DEBUG Log:30] Load head 2 frames thanh cong (14)
+[2026-04-12 21:10:30 DEBUG Log:30] Load flag bag thành công (133)
+[2026-04-12 21:10:30 DEBUG Log:30] Load c?i trang thành công (383)
+[2026-04-12 21:10:30 DEBUG Log:30] Load intrinsic thành công (26)
+[2026-04-12 21:10:30 DEBUG Log:30] Load task thành công (32)
+[2026-04-12 21:10:30 DEBUG Log:30] Load side task thành công (59)
+[2026-04-12 21:10:30 DEBUG Log:30] Load map hú búuuuuuuuuuuuuuu item template thành công (2068)
+[2026-04-12 21:10:30 DEBUG Log:30] Load map item option template thành công (255)
+[2026-04-12 21:10:31 DEBUG Log:30] Load shop thành công (58)
+[2026-04-12 21:10:31 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-12 21:10:31 DEBUG Log:30] Load ratio round thành công! 
+[2026-04-12 21:10:31 DEBUG Log:30] Load reward máy g?p thú th??ng round thành công! 
+[2026-04-12 21:10:31 DEBUG Log:30] Load reward g?p thú cao c?p thành công! 
+[2026-04-12 21:10:31 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-12 21:10:31 DEBUG Log:30] Load reward lucky round thành công (82)
+[2026-04-12 21:10:31 DEBUG Log:30] Load mob template thành công (96)
+[2026-04-12 21:10:31 DEBUG Log:30] Load npc template thành công (92)
+[2026-04-12 21:10:32 DEBUG Log:30] Init map thành công!
+[2026-04-12 21:10:32 DEBUG Log:30] Load clan thành công (41), clan next id: 229
+[2026-04-12 21:10:32 DEBUG Log:21] T?ng th?i gian load database: 2454(ms)
+[2026-04-12 21:10:34 DEBUG Log:21] Start server......... Current thread: 3204
+[2026-04-13 10:08:29 WARN  Log:39] LINK_IP_PORT Nro TORA:nro.btoan.online:14446:0,0,0:0
+[2026-04-13 10:09:30 WARN  Log:39] LINK_IP_PORT Nro TORA:nro.btoan.online:14446:0,0,0:0
+[2026-04-13 10:10:47 WARN  Log:39] LINK_IP_PORT Nro TORA:nro.btoan.online:14446:0,0,0:0
+[2026-04-13 10:10:48 DEBUG Log:30] Load part thành công (1674)
+[2026-04-13 10:10:48 DEBUG Log:30] Load map template thành công (181)
+[2026-04-13 10:10:48 DEBUG Log:30] Load skill thành công (4)
+[2026-04-13 10:10:48 DEBUG Log:30] Load head avatar thành công (389)
+[2026-04-13 10:10:48 DEBUG Log:30] Load head 2 frames thanh cong (14)
+[2026-04-13 10:10:48 DEBUG Log:30] Load flag bag thành công (133)
+[2026-04-13 10:10:48 DEBUG Log:30] Load c?i trang thành công (383)
+[2026-04-13 10:10:48 DEBUG Log:30] Load intrinsic thành công (26)
+[2026-04-13 10:10:48 DEBUG Log:30] Load task thành công (32)
+[2026-04-13 10:10:48 DEBUG Log:30] Load side task thành công (59)
+[2026-04-13 10:10:48 DEBUG Log:30] Load map hú búuuuuuuuuuuuuuu item template thành công (2068)
+[2026-04-13 10:10:48 DEBUG Log:30] Load map item option template thành công (255)
+[2026-04-13 10:10:49 DEBUG Log:30] Load shop thành công (58)
+[2026-04-13 10:10:49 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 10:10:49 DEBUG Log:30] Load ratio round thành công! 
+[2026-04-13 10:10:49 DEBUG Log:30] Load reward máy g?p thú th??ng round thành công! 
+[2026-04-13 10:10:49 DEBUG Log:30] Load reward g?p thú cao c?p thành công! 
+[2026-04-13 10:10:49 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 10:10:49 DEBUG Log:30] Load reward lucky round thành công (82)
+[2026-04-13 10:10:49 DEBUG Log:30] Load mob template thành công (96)
+[2026-04-13 10:10:49 DEBUG Log:30] Load npc template thành công (92)
+[2026-04-13 10:10:49 DEBUG Log:30] Init map thành công!
+[2026-04-13 10:10:49 DEBUG Log:30] Load clan thành công (41), clan next id: 229
+[2026-04-13 10:10:49 DEBUG Log:21] T?ng th?i gian load database: 2148(ms)
+[2026-04-13 10:10:52 DEBUG Log:21] Start server......... Current thread: 3216
+[2026-04-13 10:15:50 WARN  Log:39] LINK_IP_PORT Nro TORA:nro.btoan.online:14446:0,0,0:0
+[2026-04-13 10:15:51 DEBUG Log:30] Load part thành công (1674)
+[2026-04-13 10:15:51 DEBUG Log:30] Load map template thành công (181)
+[2026-04-13 10:15:51 DEBUG Log:30] Load skill thành công (4)
+[2026-04-13 10:15:51 DEBUG Log:30] Load head avatar thành công (389)
+[2026-04-13 10:15:51 DEBUG Log:30] Load head 2 frames thanh cong (14)
+[2026-04-13 10:15:51 DEBUG Log:30] Load flag bag thành công (133)
+[2026-04-13 10:15:51 DEBUG Log:30] Load c?i trang thành công (383)
+[2026-04-13 10:15:51 DEBUG Log:30] Load intrinsic thành công (26)
+[2026-04-13 10:15:51 DEBUG Log:30] Load task thành công (32)
+[2026-04-13 10:15:51 DEBUG Log:30] Load side task thành công (59)
+[2026-04-13 10:15:51 DEBUG Log:30] Load map hú búuuuuuuuuuuuuuu item template thành công (2068)
+[2026-04-13 10:15:51 DEBUG Log:30] Load map item option template thành công (255)
+[2026-04-13 10:15:51 DEBUG Log:30] Load shop thành công (58)
+[2026-04-13 10:15:51 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 10:15:51 DEBUG Log:30] Load ratio round thành công! 
+[2026-04-13 10:15:51 DEBUG Log:30] Load reward máy g?p thú th??ng round thành công! 
+[2026-04-13 10:15:51 DEBUG Log:30] Load reward g?p thú cao c?p thành công! 
+[2026-04-13 10:15:51 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 10:15:51 DEBUG Log:30] Load reward lucky round thành công (82)
+[2026-04-13 10:15:51 DEBUG Log:30] Load mob template thành công (96)
+[2026-04-13 10:15:51 DEBUG Log:30] Load npc template thành công (92)
+[2026-04-13 10:15:52 DEBUG Log:30] Init map thành công!
+[2026-04-13 10:15:52 DEBUG Log:30] Load clan thành công (41), clan next id: 229
+[2026-04-13 10:15:52 DEBUG Log:21] T?ng th?i gian load database: 2257(ms)
+[2026-04-13 10:15:54 DEBUG Log:21] Start server......... Current thread: 3217
+[2026-04-13 10:18:04 WARN  Log:39] LINK_IP_PORT Nro TORA:nro.btoan.online:14446:0,0,0:0
+[2026-04-13 10:18:04 DEBUG Log:30] Load part thành công (1674)
+[2026-04-13 10:18:05 DEBUG Log:30] Load map template thành công (181)
+[2026-04-13 10:18:05 DEBUG Log:30] Load skill thành công (4)
+[2026-04-13 10:18:05 DEBUG Log:30] Load head avatar thành công (389)
+[2026-04-13 10:18:05 DEBUG Log:30] Load head 2 frames thanh cong (14)
+[2026-04-13 10:18:05 DEBUG Log:30] Load flag bag thành công (133)
+[2026-04-13 10:18:05 DEBUG Log:30] Load c?i trang thành công (383)
+[2026-04-13 10:18:05 DEBUG Log:30] Load intrinsic thành công (26)
+[2026-04-13 10:18:05 DEBUG Log:30] Load task thành công (32)
+[2026-04-13 10:18:05 DEBUG Log:30] Load side task thành công (59)
+[2026-04-13 10:18:05 DEBUG Log:30] Load map hú búuuuuuuuuuuuuuu item template thành công (2068)
+[2026-04-13 10:18:05 DEBUG Log:30] Load map item option template thành công (255)
+[2026-04-13 10:18:05 DEBUG Log:30] Load shop thành công (58)
+[2026-04-13 10:18:05 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 10:18:05 DEBUG Log:30] Load ratio round thành công! 
+[2026-04-13 10:18:05 DEBUG Log:30] Load reward máy g?p thú th??ng round thành công! 
+[2026-04-13 10:18:05 DEBUG Log:30] Load reward g?p thú cao c?p thành công! 
+[2026-04-13 10:18:05 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 10:18:05 DEBUG Log:30] Load reward lucky round thành công (82)
+[2026-04-13 10:18:05 DEBUG Log:30] Load mob template thành công (96)
+[2026-04-13 10:18:05 DEBUG Log:30] Load npc template thành công (92)
+[2026-04-13 10:18:06 DEBUG Log:30] Init map thành công!
+[2026-04-13 10:18:06 DEBUG Log:30] Load clan thành công (41), clan next id: 229
+[2026-04-13 10:18:06 DEBUG Log:21] T?ng th?i gian load database: 2302(ms)
+[2026-04-13 10:18:08 DEBUG Log:21] Start server......... Current thread: 3216
+[2026-04-13 10:49:55 WARN  Log:39] LINK_IP_PORT Nro TORA:nro.btoan.online:14446:0,0,0:0
+[2026-04-13 10:53:34 WARN  Log:39] LINK_IP_PORT Nro TORA:nro.btoan.online:14446:0,0,0:0
+[2026-04-13 10:53:35 DEBUG Log:30] Load part thành công (1674)
+[2026-04-13 10:53:35 DEBUG Log:30] Load map template thành công (181)
+[2026-04-13 10:53:35 DEBUG Log:30] Load skill thành công (4)
+[2026-04-13 10:53:35 DEBUG Log:30] Load head avatar thành công (389)
+[2026-04-13 10:53:35 DEBUG Log:30] Load head 2 frames thanh cong (14)
+[2026-04-13 10:53:35 DEBUG Log:30] Load flag bag thành công (133)
+[2026-04-13 10:53:36 DEBUG Log:30] Load c?i trang thành công (383)
+[2026-04-13 10:53:36 DEBUG Log:30] Load intrinsic thành công (26)
+[2026-04-13 10:53:36 DEBUG Log:30] Load task thành công (32)
+[2026-04-13 10:53:36 DEBUG Log:30] Load side task thành công (59)
+[2026-04-13 10:53:36 DEBUG Log:30] Load map hú búuuuuuuuuuuuuuu item template thành công (2068)
+[2026-04-13 10:53:36 DEBUG Log:30] Load map item option template thành công (255)
+[2026-04-13 10:53:36 DEBUG Log:30] Load shop thành công (58)
+[2026-04-13 10:53:36 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 10:53:36 DEBUG Log:30] Load ratio round thành công! 
+[2026-04-13 10:53:36 DEBUG Log:30] Load reward máy g?p thú th??ng round thành công! 
+[2026-04-13 10:53:36 DEBUG Log:30] Load reward g?p thú cao c?p thành công! 
+[2026-04-13 10:53:36 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 10:53:36 DEBUG Log:30] Load reward lucky round thành công (82)
+[2026-04-13 10:53:36 DEBUG Log:30] Load mob template thành công (96)
+[2026-04-13 10:53:36 DEBUG Log:30] Load npc template thành công (92)
+[2026-04-13 10:53:37 DEBUG Log:30] Init map thành công!
+[2026-04-13 10:53:37 DEBUG Log:30] Load clan thành công (41), clan next id: 229
+[2026-04-13 10:53:37 DEBUG Log:21] T?ng th?i gian load database: 3094(ms)
+[2026-04-13 10:53:40 DEBUG Log:21] Start server......... Current thread: 3216
+[2026-04-13 16:43:40 WARN  Log:39] LINK_IP_PORT Nro TORA:nro.btoan.online:14446:0,0,0:0
+[2026-04-13 16:43:41 DEBUG Log:30] Load part thành công (1674)
+[2026-04-13 16:43:41 DEBUG Log:30] Load map template thành công (181)
+[2026-04-13 16:43:41 DEBUG Log:30] Load skill thành công (4)
+[2026-04-13 16:43:41 DEBUG Log:30] Load head avatar thành công (389)
+[2026-04-13 16:43:41 DEBUG Log:30] Load head 2 frames thanh cong (14)
+[2026-04-13 16:43:41 DEBUG Log:30] Load flag bag thành công (133)
+[2026-04-13 16:43:41 DEBUG Log:30] Load c?i trang thành công (383)
+[2026-04-13 16:43:41 DEBUG Log:30] Load intrinsic thành công (26)
+[2026-04-13 16:43:41 DEBUG Log:30] Load task thành công (32)
+[2026-04-13 16:43:41 DEBUG Log:30] Load side task thành công (59)
+[2026-04-13 16:43:41 DEBUG Log:30] Load map hú búuuuuuuuuuuuuuu item template thành công (2068)
+[2026-04-13 16:43:41 DEBUG Log:30] Load map item option template thành công (255)
+[2026-04-13 16:43:41 DEBUG Log:30] Load shop thành công (58)
+[2026-04-13 16:43:41 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 16:43:41 DEBUG Log:30] Load ratio round thành công! 
+[2026-04-13 16:43:41 DEBUG Log:30] Load reward máy g?p thú th??ng round thành công! 
+[2026-04-13 16:43:41 DEBUG Log:30] Load reward g?p thú cao c?p thành công! 
+[2026-04-13 16:43:41 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 16:43:41 DEBUG Log:30] Load reward lucky round thành công (82)
+[2026-04-13 16:43:41 DEBUG Log:30] Load mob template thành công (96)
+[2026-04-13 16:43:41 DEBUG Log:30] Load npc template thành công (92)
+[2026-04-13 16:43:43 DEBUG Log:30] Init map thành công!
+[2026-04-13 16:43:43 DEBUG Log:30] Load clan thành công (41), clan next id: 229
+[2026-04-13 16:43:43 DEBUG Log:21] T?ng th?i gian load database: 3210(ms)
+[2026-04-13 16:43:45 DEBUG Log:21] Start server......... Current thread: 3215
+[2026-04-13 16:46:11 ERROR Log:48] BEGIN MAINTENANCE...............................
+[2026-04-13 16:46:11 DEBUG Log:21] BEGIN KICK OUT SESSION...............................
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: 1 (0)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: nro (2)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: sec (3)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: VIP T (6)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: KÃ¨n ca (7)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: Zhukov (8)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: Top1 (9)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: sml (10)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: 231321 (27)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: tyrt (46)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: Hetshop (57)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: top1av (58)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: bÃ¢hhsh (69)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: gohanvip (91)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: Pt boy (92)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: Monk  (104)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: Ss (105)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: J (106)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: Vcl (127)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: alo vu a em  (138)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: MEGAKISS (139)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: trumsv (143)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: fuck (144)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: axxx (145)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: fuuk (146)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: runcaden (157)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: kai (168)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: Ä?mad (170)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: Cc (183)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: vip (184)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: Obita (185)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: Ã‚ (186)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: O men (187)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: Testgame (188)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: Lá»“n to (190)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: admin kiss (202)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: gstg (213)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: Bbln (215)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: KING (226)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: ff (227)
+[2026-04-13 16:46:11 DEBUG Log:21] SAVE CLAN: 777 (228)
+[2026-04-13 16:46:11 DEBUG Log:21] BEGIN KICK OUT SESSION...............................
+[2026-04-13 16:46:11 DEBUG Log:30] SUCCESSFULLY MAINTENANCE!...................................
+[2026-04-13 16:46:37 WARN  Log:39] LINK_IP_PORT Nro TORA:nro.btoan.online:14446:0,0,0:0
+[2026-04-13 16:46:38 DEBUG Log:30] Load part thành công (1674)
+[2026-04-13 16:46:39 DEBUG Log:30] Load map template thành công (181)
+[2026-04-13 16:46:39 DEBUG Log:30] Load skill thành công (4)
+[2026-04-13 16:46:39 DEBUG Log:30] Load head avatar thành công (389)
+[2026-04-13 16:46:39 DEBUG Log:30] Load head 2 frames thanh cong (14)
+[2026-04-13 16:46:39 DEBUG Log:30] Load flag bag thành công (133)
+[2026-04-13 16:46:39 DEBUG Log:30] Load c?i trang thành công (383)
+[2026-04-13 16:46:39 DEBUG Log:30] Load intrinsic thành công (26)
+[2026-04-13 16:46:39 DEBUG Log:30] Load task thành công (32)
+[2026-04-13 16:46:39 DEBUG Log:30] Load side task thành công (59)
+[2026-04-13 16:46:39 DEBUG Log:30] Load map hú búuuuuuuuuuuuuuu item template thành công (2068)
+[2026-04-13 16:46:39 DEBUG Log:30] Load map item option template thành công (255)
+[2026-04-13 16:46:39 DEBUG Log:30] Load shop thành công (58)
+[2026-04-13 16:46:39 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 16:46:39 DEBUG Log:30] Load ratio round thành công! 
+[2026-04-13 16:46:39 DEBUG Log:30] Load reward máy g?p thú th??ng round thành công! 
+[2026-04-13 16:46:39 DEBUG Log:30] Load reward g?p thú cao c?p thành công! 
+[2026-04-13 16:46:39 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 16:46:39 DEBUG Log:30] Load reward lucky round thành công (82)
+[2026-04-13 16:46:39 DEBUG Log:30] Load mob template thành công (96)
+[2026-04-13 16:46:39 DEBUG Log:30] Load npc template thành công (92)
+[2026-04-13 16:46:40 DEBUG Log:30] Init map thành công!
+[2026-04-13 16:46:40 DEBUG Log:30] Load clan thành công (41), clan next id: 229
+[2026-04-13 16:46:40 DEBUG Log:21] T?ng th?i gian load database: 2261(ms)
+[2026-04-13 16:46:42 DEBUG Log:21] Start server......... Current thread: 3215
+[2026-04-13 19:02:31 DEBUG Log:21] BEGIN KICK OUT SESSION...............................
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: 1 (0)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: nro (2)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: sec (3)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: VIP T (6)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: KÃ¨n ca (7)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: Zhukov (8)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: Top1 (9)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: sml (10)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: 231321 (27)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: tyrt (46)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: Hetshop (57)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: top1av (58)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: bÃ¢hhsh (69)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: gohanvip (91)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: Pt boy (92)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: Monk  (104)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: Ss (105)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: J (106)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: Vcl (127)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: alo vu a em  (138)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: MEGAKISS (139)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: trumsv (143)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: fuck (144)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: axxx (145)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: fuuk (146)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: runcaden (157)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: kai (168)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: Ä?mad (170)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: Cc (183)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: vip (184)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: Obita (185)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: Ã‚ (186)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: O men (187)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: Testgame (188)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: Lá»“n to (190)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: admin kiss (202)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: gstg (213)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: Bbln (215)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: KING (226)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: ff (227)
+[2026-04-13 19:02:31 DEBUG Log:21] SAVE CLAN: 777 (228)
+[2026-04-13 19:02:39 WARN  Log:39] LINK_IP_PORT Nro TORA:nro.btoan.online:14446:0,0,0:0
+[2026-04-13 19:02:40 DEBUG Log:30] Load part thành công (1674)
+[2026-04-13 19:02:40 DEBUG Log:30] Load map template thành công (181)
+[2026-04-13 19:02:40 DEBUG Log:30] Load skill thành công (4)
+[2026-04-13 19:02:40 DEBUG Log:30] Load head avatar thành công (389)
+[2026-04-13 19:02:40 DEBUG Log:30] Load head 2 frames thanh cong (14)
+[2026-04-13 19:02:40 DEBUG Log:30] Load flag bag thành công (133)
+[2026-04-13 19:02:40 DEBUG Log:30] Load c?i trang thành công (383)
+[2026-04-13 19:02:40 DEBUG Log:30] Load intrinsic thành công (26)
+[2026-04-13 19:02:40 DEBUG Log:30] Load task thành công (32)
+[2026-04-13 19:02:40 DEBUG Log:30] Load side task thành công (59)
+[2026-04-13 19:02:40 DEBUG Log:30] Load map hú búuuuuuuuuuuuuuu item template thành công (2068)
+[2026-04-13 19:02:40 DEBUG Log:30] Load map item option template thành công (255)
+[2026-04-13 19:02:40 DEBUG Log:30] Load shop thành công (58)
+[2026-04-13 19:02:40 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 19:02:40 DEBUG Log:30] Load ratio round thành công! 
+[2026-04-13 19:02:40 DEBUG Log:30] Load reward máy g?p thú th??ng round thành công! 
+[2026-04-13 19:02:40 DEBUG Log:30] Load reward g?p thú cao c?p thành công! 
+[2026-04-13 19:02:40 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 19:02:40 DEBUG Log:30] Load reward lucky round thành công (82)
+[2026-04-13 19:02:40 DEBUG Log:30] Load mob template thành công (96)
+[2026-04-13 19:02:40 DEBUG Log:30] Load npc template thành công (92)
+[2026-04-13 19:02:41 DEBUG Log:30] Init map thành công!
+[2026-04-13 19:02:41 DEBUG Log:30] Load clan thành công (41), clan next id: 229
+[2026-04-13 19:02:41 DEBUG Log:21] T?ng th?i gian load database: 2224(ms)
+[2026-04-13 19:02:43 DEBUG Log:21] Start server......... Current thread: 3218
+[2026-04-13 20:32:13 WARN  Log:39] LINK_IP_PORT Nro TORA:103.78.0.226:14446:0,0,0:0
+[2026-04-13 20:32:14 DEBUG Log:30] Load part thành công (1674)
+[2026-04-13 20:32:14 DEBUG Log:30] Load map template thành công (181)
+[2026-04-13 20:32:14 DEBUG Log:30] Load skill thành công (4)
+[2026-04-13 20:32:14 DEBUG Log:30] Load head avatar thành công (389)
+[2026-04-13 20:32:14 DEBUG Log:30] Load head 2 frames thanh cong (14)
+[2026-04-13 20:32:14 DEBUG Log:30] Load flag bag thành công (133)
+[2026-04-13 20:32:14 DEBUG Log:30] Load c?i trang thành công (383)
+[2026-04-13 20:32:14 DEBUG Log:30] Load intrinsic thành công (26)
+[2026-04-13 20:32:14 DEBUG Log:30] Load task thành công (32)
+[2026-04-13 20:32:14 DEBUG Log:30] Load side task thành công (59)
+[2026-04-13 20:32:14 DEBUG Log:30] Load map hú búuuuuuuuuuuuuuu item template thành công (2068)
+[2026-04-13 20:32:14 DEBUG Log:30] Load map item option template thành công (255)
+[2026-04-13 20:32:14 DEBUG Log:30] Load shop thành công (58)
+[2026-04-13 20:32:14 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 20:32:14 DEBUG Log:30] Load ratio round thành công! 
+[2026-04-13 20:32:14 DEBUG Log:30] Load reward máy g?p thú th??ng round thành công! 
+[2026-04-13 20:32:14 DEBUG Log:30] Load reward g?p thú cao c?p thành công! 
+[2026-04-13 20:32:14 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 20:32:14 DEBUG Log:30] Load reward lucky round thành công (82)
+[2026-04-13 20:32:14 DEBUG Log:30] Load mob template thành công (96)
+[2026-04-13 20:32:14 DEBUG Log:30] Load npc template thành công (92)
+[2026-04-13 20:32:15 DEBUG Log:30] Init map thành công!
+[2026-04-13 20:32:15 DEBUG Log:30] Load clan thành công (41), clan next id: 229
+[2026-04-13 20:32:15 DEBUG Log:21] T?ng th?i gian load database: 2291(ms)
+[2026-04-13 20:32:17 DEBUG Log:21] Start server......... Current thread: 3215
+[2026-04-13 20:48:20 ERROR Log:48] BEGIN MAINTENANCE...............................
+[2026-04-13 20:48:20 DEBUG Log:21] BEGIN KICK OUT SESSION...............................
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: 1 (0)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: nro (2)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: sec (3)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: VIP T (6)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: KÃ¨n ca (7)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: Zhukov (8)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: Top1 (9)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: sml (10)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: 231321 (27)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: tyrt (46)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: Hetshop (57)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: top1av (58)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: bÃ¢hhsh (69)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: gohanvip (91)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: Pt boy (92)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: Monk  (104)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: Ss (105)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: J (106)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: Vcl (127)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: alo vu a em  (138)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: MEGAKISS (139)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: trumsv (143)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: fuck (144)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: axxx (145)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: fuuk (146)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: runcaden (157)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: kai (168)
+[2026-04-13 20:48:20 DEBUG Log:21] SAVE CLAN: Ä?mad (170)
+[2026-04-13 20:48:21 DEBUG Log:21] SAVE CLAN: Cc (183)
+[2026-04-13 20:48:21 DEBUG Log:21] SAVE CLAN: vip (184)
+[2026-04-13 20:48:21 DEBUG Log:21] SAVE CLAN: Obita (185)
+[2026-04-13 20:48:21 DEBUG Log:21] SAVE CLAN: Ã‚ (186)
+[2026-04-13 20:48:21 DEBUG Log:21] SAVE CLAN: O men (187)
+[2026-04-13 20:48:21 DEBUG Log:21] SAVE CLAN: Testgame (188)
+[2026-04-13 20:48:21 DEBUG Log:21] SAVE CLAN: Lá»“n to (190)
+[2026-04-13 20:48:21 DEBUG Log:21] SAVE CLAN: admin kiss (202)
+[2026-04-13 20:48:21 DEBUG Log:21] SAVE CLAN: gstg (213)
+[2026-04-13 20:48:21 DEBUG Log:21] SAVE CLAN: Bbln (215)
+[2026-04-13 20:48:21 DEBUG Log:21] SAVE CLAN: KING (226)
+[2026-04-13 20:48:21 DEBUG Log:21] SAVE CLAN: ff (227)
+[2026-04-13 20:48:21 DEBUG Log:21] SAVE CLAN: 777 (228)
+[2026-04-13 20:48:21 DEBUG Log:21] BEGIN KICK OUT SESSION...............................
+[2026-04-13 20:48:21 DEBUG Log:30] SUCCESSFULLY MAINTENANCE!...................................
+[2026-04-13 20:55:16 WARN  Log:39] LINK_IP_PORT Nro TORA:103.78.0.226:14446:0,0,0:0
+[2026-04-13 20:55:17 DEBUG Log:30] Load part thành công (1674)
+[2026-04-13 20:55:17 DEBUG Log:30] Load map template thành công (181)
+[2026-04-13 20:55:17 DEBUG Log:30] Load skill thành công (4)
+[2026-04-13 20:55:17 DEBUG Log:30] Load head avatar thành công (389)
+[2026-04-13 20:55:17 DEBUG Log:30] Load head 2 frames thanh cong (14)
+[2026-04-13 20:55:17 DEBUG Log:30] Load flag bag thành công (133)
+[2026-04-13 20:55:17 DEBUG Log:30] Load c?i trang thành công (383)
+[2026-04-13 20:55:17 DEBUG Log:30] Load intrinsic thành công (26)
+[2026-04-13 20:55:17 DEBUG Log:30] Load task thành công (32)
+[2026-04-13 20:55:17 DEBUG Log:30] Load side task thành công (59)
+[2026-04-13 20:55:17 DEBUG Log:30] Load map hú búuuuuuuuuuuuuuu item template thành công (2068)
+[2026-04-13 20:55:17 DEBUG Log:30] Load map item option template thành công (255)
+[2026-04-13 20:55:17 DEBUG Log:30] Load shop thành công (58)
+[2026-04-13 20:55:17 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 20:55:17 DEBUG Log:30] Load ratio round thành công! 
+[2026-04-13 20:55:17 DEBUG Log:30] Load reward máy g?p thú th??ng round thành công! 
+[2026-04-13 20:55:17 DEBUG Log:30] Load reward g?p thú cao c?p thành công! 
+[2026-04-13 20:55:17 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 20:55:18 DEBUG Log:30] Load reward lucky round thành công (82)
+[2026-04-13 20:55:18 DEBUG Log:30] Load mob template thành công (96)
+[2026-04-13 20:55:18 DEBUG Log:30] Load npc template thành công (92)
+[2026-04-13 20:55:20 DEBUG Log:30] Init map thành công!
+[2026-04-13 20:55:20 DEBUG Log:30] Load clan thành công (41), clan next id: 229
+[2026-04-13 20:55:20 DEBUG Log:21] T?ng th?i gian load database: 3587(ms)
+[2026-04-13 20:55:22 DEBUG Log:21] Start server......... Current thread: 3215
+[2026-04-13 20:58:43 WARN  Log:39] LINK_IP_PORT Nro TORA:103.78.0.226:14446:0,0,0:0
+[2026-04-13 20:58:44 DEBUG Log:30] Load part thành công (1674)
+[2026-04-13 20:58:44 DEBUG Log:30] Load map template thành công (181)
+[2026-04-13 20:58:44 DEBUG Log:30] Load skill thành công (4)
+[2026-04-13 20:58:44 DEBUG Log:30] Load head avatar thành công (389)
+[2026-04-13 20:58:44 DEBUG Log:30] Load head 2 frames thanh cong (14)
+[2026-04-13 20:58:44 DEBUG Log:30] Load flag bag thành công (133)
+[2026-04-13 20:58:44 DEBUG Log:30] Load c?i trang thành công (383)
+[2026-04-13 20:58:44 DEBUG Log:30] Load intrinsic thành công (26)
+[2026-04-13 20:58:44 DEBUG Log:30] Load task thành công (32)
+[2026-04-13 20:58:44 DEBUG Log:30] Load side task thành công (59)
+[2026-04-13 20:58:44 DEBUG Log:30] Load map hú búuuuuuuuuuuuuuu item template thành công (2068)
+[2026-04-13 20:58:44 DEBUG Log:30] Load map item option template thành công (255)
+[2026-04-13 20:58:44 DEBUG Log:30] Load shop thành công (58)
+[2026-04-13 20:58:44 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 20:58:44 DEBUG Log:30] Load ratio round thành công! 
+[2026-04-13 20:58:44 DEBUG Log:30] Load reward máy g?p thú th??ng round thành công! 
+[2026-04-13 20:58:44 DEBUG Log:30] Load reward g?p thú cao c?p thành công! 
+[2026-04-13 20:58:44 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 20:58:44 DEBUG Log:30] Load reward lucky round thành công (82)
+[2026-04-13 20:58:44 DEBUG Log:30] Load mob template thành công (96)
+[2026-04-13 20:58:44 DEBUG Log:30] Load npc template thành công (92)
+[2026-04-13 20:58:45 DEBUG Log:30] Init map thành công!
+[2026-04-13 20:58:45 DEBUG Log:30] Load clan thành công (41), clan next id: 229
+[2026-04-13 20:58:45 DEBUG Log:21] T?ng th?i gian load database: 2421(ms)
+[2026-04-13 20:58:47 DEBUG Log:21] Start server......... Current thread: 3215
+[2026-04-13 21:08:53 WARN  Log:39] LINK_IP_PORT Nro TORA:103.78.0.226:14446:0,0,0:0
+[2026-04-13 21:08:54 DEBUG Log:30] Load part thành công (1674)
+[2026-04-13 21:08:54 DEBUG Log:30] Load map template thành công (181)
+[2026-04-13 21:08:54 DEBUG Log:30] Load skill thành công (4)
+[2026-04-13 21:08:54 DEBUG Log:30] Load head avatar thành công (389)
+[2026-04-13 21:08:54 DEBUG Log:30] Load head 2 frames thanh cong (14)
+[2026-04-13 21:08:54 DEBUG Log:30] Load flag bag thành công (133)
+[2026-04-13 21:08:54 DEBUG Log:30] Load c?i trang thành công (383)
+[2026-04-13 21:08:54 DEBUG Log:30] Load intrinsic thành công (26)
+[2026-04-13 21:08:54 DEBUG Log:30] Load task thành công (32)
+[2026-04-13 21:08:54 DEBUG Log:30] Load side task thành công (59)
+[2026-04-13 21:08:54 DEBUG Log:30] Load map hú búuuuuuuuuuuuuuu item template thành công (2068)
+[2026-04-13 21:08:54 DEBUG Log:30] Load map item option template thành công (255)
+[2026-04-13 21:08:54 DEBUG Log:30] Load shop thành công (58)
+[2026-04-13 21:08:54 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 21:08:54 DEBUG Log:30] Load ratio round thành công! 
+[2026-04-13 21:08:54 DEBUG Log:30] Load reward máy g?p thú th??ng round thành công! 
+[2026-04-13 21:08:54 DEBUG Log:30] Load reward g?p thú cao c?p thành công! 
+[2026-04-13 21:08:54 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 21:08:54 DEBUG Log:30] Load reward lucky round thành công (82)
+[2026-04-13 21:08:54 DEBUG Log:30] Load mob template thành công (96)
+[2026-04-13 21:08:54 DEBUG Log:30] Load npc template thành công (92)
+[2026-04-13 21:08:56 DEBUG Log:30] Init map thành công!
+[2026-04-13 21:08:56 DEBUG Log:30] Load clan thành công (41), clan next id: 229
+[2026-04-13 21:08:56 DEBUG Log:21] T?ng th?i gian load database: 3538(ms)
+[2026-04-13 21:08:59 DEBUG Log:21] Start server......... Current thread: 3215
+[2026-04-13 21:14:28 DEBUG Log:21] BEGIN KICK OUT SESSION...............................
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: 1 (0)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: nro (2)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: sec (3)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: VIP T (6)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: KÃ¨n ca (7)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: Zhukov (8)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: Top1 (9)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: sml (10)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: 231321 (27)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: tyrt (46)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: Hetshop (57)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: top1av (58)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: bÃ¢hhsh (69)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: gohanvip (91)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: Pt boy (92)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: Monk  (104)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: Ss (105)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: J (106)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: Vcl (127)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: alo vu a em  (138)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: MEGAKISS (139)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: trumsv (143)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: fuck (144)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: axxx (145)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: fuuk (146)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: runcaden (157)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: kai (168)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: Ä?mad (170)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: Cc (183)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: vip (184)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: Obita (185)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: Ã‚ (186)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: O men (187)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: Testgame (188)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: Lá»“n to (190)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: admin kiss (202)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: gstg (213)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: Bbln (215)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: KING (226)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: ff (227)
+[2026-04-13 21:14:28 DEBUG Log:21] SAVE CLAN: 777 (228)
+[2026-04-13 21:14:28 ERROR Log:52] nro.models.clan.Clan:Có l?i khi update clan vào db
+java.sql.BatchUpdateException: Table 'nro_goc.clan_sv1' doesn't exist
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at com.mysql.cj.util.Util.handleNewInstance(Util.java:192)
+	at com.mysql.cj.util.Util.getInstance(Util.java:167)
+	at com.mysql.cj.util.Util.getInstance(Util.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createBatchUpdateException(SQLError.java:224)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeBatchSerially(ClientPreparedStatement.java:816)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeBatchInternal(ClientPreparedStatement.java:418)
+	at com.mysql.cj.jdbc.StatementImpl.executeBatch(StatementImpl.java:795)
+	at com.zaxxer.hikari.pool.ProxyStatement.executeBatch(ProxyStatement.java:127)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeBatch(HikariProxyPreparedStatement.java)
+	at nro.services.ClanService.close(ClanService.java:1112)
+	at nro.server.ServerManager.close(ServerManager.java:405)
+	at nro.server.ServerManager$1.windowClosing(ServerManager.java:110)
+	at java.desktop/java.awt.Window.processWindowEvent(Window.java:2085)
+	at java.desktop/javax.swing.JFrame.processWindowEvent(JFrame.java:298)
+	at java.desktop/java.awt.Window.processEvent(Window.java:2044)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5001)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2324)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2780)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4833)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:722)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:716)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:97)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:746)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:744)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:743)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+Caused by: java.sql.SQLSyntaxErrorException: Table 'nro_goc.clan_sv1' doesn't exist
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:916)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1061)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeBatchSerially(ClientPreparedStatement.java:795)
+	... 31 more
+[2026-04-13 21:14:28 DEBUG Log:21] BEGIN KICK OUT SESSION...............................
+[2026-04-13 21:14:28 DEBUG Log:30] SUCCESSFULLY MAINTENANCE!...................................
+[2026-04-13 21:21:51 WARN  Log:39] LINK_IP_PORT Nro TORA:103.78.0.226:14446:0,0,0:0
+[2026-04-13 21:21:52 DEBUG Log:30] Load part thành công (1674)
+[2026-04-13 21:21:52 DEBUG Log:30] Load map template thành công (181)
+[2026-04-13 21:21:52 DEBUG Log:30] Load skill thành công (4)
+[2026-04-13 21:21:52 DEBUG Log:30] Load head avatar thành công (389)
+[2026-04-13 21:21:52 DEBUG Log:30] Load head 2 frames thanh cong (14)
+[2026-04-13 21:21:52 DEBUG Log:30] Load flag bag thành công (133)
+[2026-04-13 21:21:52 DEBUG Log:30] Load c?i trang thành công (383)
+[2026-04-13 21:21:52 DEBUG Log:30] Load intrinsic thành công (26)
+[2026-04-13 21:21:52 DEBUG Log:30] Load task thành công (32)
+[2026-04-13 21:21:52 DEBUG Log:30] Load side task thành công (59)
+[2026-04-13 21:21:52 DEBUG Log:30] Load map hú búuuuuuuuuuuuuuu item template thành công (2068)
+[2026-04-13 21:21:52 DEBUG Log:30] Load map item option template thành công (255)
+[2026-04-13 21:21:52 DEBUG Log:30] Load shop thành công (58)
+[2026-04-13 21:21:53 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 21:21:53 DEBUG Log:30] Load ratio round thành công! 
+[2026-04-13 21:21:53 DEBUG Log:30] Load reward máy g?p thú th??ng round thành công! 
+[2026-04-13 21:21:53 DEBUG Log:30] Load reward g?p thú cao c?p thành công! 
+[2026-04-13 21:21:53 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 21:21:53 DEBUG Log:30] Load reward lucky round thành công (82)
+[2026-04-13 21:21:53 DEBUG Log:30] Load mob template thành công (96)
+[2026-04-13 21:21:53 DEBUG Log:30] Load npc template thành công (92)
+[2026-04-13 21:21:55 DEBUG Log:30] Init map thành công!
+[2026-04-13 21:21:55 DEBUG Log:30] Load clan thành công (41), clan next id: 229
+[2026-04-13 21:21:55 DEBUG Log:21] T?ng th?i gian load database: 3724(ms)
+[2026-04-13 21:21:57 DEBUG Log:21] Start server......... Current thread: 3215
+[2026-04-13 21:33:18 WARN  Log:39] LINK_IP_PORT Nro TORA:103.78.0.226:14446:0,0,0:0
+[2026-04-13 21:33:19 DEBUG Log:30] Load part thành công (1674)
+[2026-04-13 21:33:20 DEBUG Log:30] Load map template thành công (181)
+[2026-04-13 21:33:20 DEBUG Log:30] Load skill thành công (4)
+[2026-04-13 21:33:20 DEBUG Log:30] Load head avatar thành công (389)
+[2026-04-13 21:33:20 DEBUG Log:30] Load head 2 frames thanh cong (14)
+[2026-04-13 21:33:20 DEBUG Log:30] Load flag bag thành công (133)
+[2026-04-13 21:33:20 DEBUG Log:30] Load c?i trang thành công (383)
+[2026-04-13 21:33:20 DEBUG Log:30] Load intrinsic thành công (26)
+[2026-04-13 21:33:20 DEBUG Log:30] Load task thành công (32)
+[2026-04-13 21:33:20 DEBUG Log:30] Load side task thành công (59)
+[2026-04-13 21:33:20 DEBUG Log:30] Load map hú búuuuuuuuuuuuuuu item template thành công (2068)
+[2026-04-13 21:33:20 DEBUG Log:30] Load map item option template thành công (255)
+[2026-04-13 21:33:20 DEBUG Log:30] Load shop thành công (58)
+[2026-04-13 21:33:20 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 21:33:20 DEBUG Log:30] Load ratio round thành công! 
+[2026-04-13 21:33:20 DEBUG Log:30] Load reward máy g?p thú th??ng round thành công! 
+[2026-04-13 21:33:20 DEBUG Log:30] Load reward g?p thú cao c?p thành công! 
+[2026-04-13 21:33:20 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 21:33:20 DEBUG Log:30] Load reward lucky round thành công (82)
+[2026-04-13 21:33:20 DEBUG Log:30] Load mob template thành công (96)
+[2026-04-13 21:33:20 DEBUG Log:30] Load npc template thành công (92)
+[2026-04-13 21:33:21 DEBUG Log:30] Init map thành công!
+[2026-04-13 21:33:21 DEBUG Log:30] Load clan thành công (41), clan next id: 229
+[2026-04-13 21:33:21 DEBUG Log:21] T?ng th?i gian load database: 2564(ms)
+[2026-04-13 21:33:37 WARN  Log:39] LINK_IP_PORT Nro TORA:103.78.0.226:14446:0,0,0:0
+[2026-04-13 21:33:38 DEBUG Log:30] Load part thành công (1674)
+[2026-04-13 21:33:38 DEBUG Log:30] Load map template thành công (181)
+[2026-04-13 21:33:38 DEBUG Log:30] Load skill thành công (4)
+[2026-04-13 21:33:38 DEBUG Log:30] Load head avatar thành công (389)
+[2026-04-13 21:33:38 DEBUG Log:30] Load head 2 frames thanh cong (14)
+[2026-04-13 21:33:38 DEBUG Log:30] Load flag bag thành công (133)
+[2026-04-13 21:33:38 DEBUG Log:30] Load c?i trang thành công (383)
+[2026-04-13 21:33:38 DEBUG Log:30] Load intrinsic thành công (26)
+[2026-04-13 21:33:38 DEBUG Log:30] Load task thành công (32)
+[2026-04-13 21:33:38 DEBUG Log:30] Load side task thành công (59)
+[2026-04-13 21:33:38 DEBUG Log:30] Load map hú búuuuuuuuuuuuuuu item template thành công (2068)
+[2026-04-13 21:33:38 DEBUG Log:30] Load map item option template thành công (255)
+[2026-04-13 21:33:38 DEBUG Log:30] Load shop thành công (58)
+[2026-04-13 21:33:38 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 21:33:38 DEBUG Log:30] Load ratio round thành công! 
+[2026-04-13 21:33:38 DEBUG Log:30] Load reward máy g?p thú th??ng round thành công! 
+[2026-04-13 21:33:38 DEBUG Log:30] Load reward g?p thú cao c?p thành công! 
+[2026-04-13 21:33:38 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-13 21:33:38 DEBUG Log:30] Load reward lucky round thành công (82)
+[2026-04-13 21:33:38 DEBUG Log:30] Load mob template thành công (96)
+[2026-04-13 21:33:38 DEBUG Log:30] Load npc template thành công (92)
+[2026-04-13 21:33:39 DEBUG Log:30] Init map thành công!
+[2026-04-13 21:33:39 DEBUG Log:30] Load clan thành công (41), clan next id: 229
+[2026-04-13 21:33:39 DEBUG Log:21] T?ng th?i gian load database: 2235(ms)
+[2026-04-13 21:33:41 DEBUG Log:21] Start server......... Current thread: 3215
+[2026-04-14 00:38:22 WARN  Log:39] LINK_IP_PORT Nro TORA:103.78.0.226:14446:0,0,0:0
+[2026-04-14 00:38:23 DEBUG Log:30] Load part thành công (1674)
+[2026-04-14 00:38:23 DEBUG Log:30] Load map template thành công (181)
+[2026-04-14 00:38:23 DEBUG Log:30] Load skill thành công (4)
+[2026-04-14 00:38:23 DEBUG Log:30] Load head avatar thành công (389)
+[2026-04-14 00:38:23 DEBUG Log:30] Load head 2 frames thanh cong (14)
+[2026-04-14 00:38:23 DEBUG Log:30] Load flag bag thành công (133)
+[2026-04-14 00:38:24 DEBUG Log:30] Load c?i trang thành công (383)
+[2026-04-14 00:38:24 DEBUG Log:30] Load intrinsic thành công (26)
+[2026-04-14 00:38:24 DEBUG Log:30] Load task thành công (32)
+[2026-04-14 00:38:24 DEBUG Log:30] Load side task thành công (59)
+[2026-04-14 00:38:24 DEBUG Log:30] Load map hú búuuuuuuuuuuuuuu item template thành công (2068)
+[2026-04-14 00:38:24 DEBUG Log:30] Load map item option template thành công (255)
+[2026-04-14 00:38:24 DEBUG Log:30] Load shop thành công (58)
+[2026-04-14 00:38:24 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-14 00:38:24 DEBUG Log:30] Load ratio round thành công! 
+[2026-04-14 00:38:24 DEBUG Log:30] Load reward máy g?p thú th??ng round thành công! 
+[2026-04-14 00:38:24 DEBUG Log:30] Load reward g?p thú cao c?p thành công! 
+[2026-04-14 00:38:24 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-14 00:38:24 DEBUG Log:30] Load reward lucky round thành công (82)
+[2026-04-14 00:38:24 DEBUG Log:30] Load mob template thành công (96)
+[2026-04-14 00:38:24 DEBUG Log:30] Load npc template thành công (92)
+[2026-04-14 00:38:27 DEBUG Log:30] Init map thành công!
+[2026-04-14 00:38:27 DEBUG Log:30] Load clan thành công (41), clan next id: 229
+[2026-04-14 00:38:27 DEBUG Log:21] T?ng th?i gian load database: 4743(ms)
+[2026-04-14 00:38:30 DEBUG Log:21] Start server......... Current thread: 3214
+[2026-04-14 00:40:30 WARN  Log:39] LINK_IP_PORT Nro TORA:103.78.0.226:14446:0,0,0:0
+[2026-04-14 00:40:31 DEBUG Log:30] Load part thành công (1674)
+[2026-04-14 00:40:31 DEBUG Log:30] Load map template thành công (181)
+[2026-04-14 00:40:31 DEBUG Log:30] Load skill thành công (4)
+[2026-04-14 00:40:31 DEBUG Log:30] Load head avatar thành công (389)
+[2026-04-14 00:40:31 DEBUG Log:30] Load head 2 frames thanh cong (14)
+[2026-04-14 00:40:31 DEBUG Log:30] Load flag bag thành công (133)
+[2026-04-14 00:40:31 DEBUG Log:30] Load c?i trang thành công (383)
+[2026-04-14 00:40:31 DEBUG Log:30] Load intrinsic thành công (26)
+[2026-04-14 00:40:31 DEBUG Log:30] Load task thành công (32)
+[2026-04-14 00:40:31 DEBUG Log:30] Load side task thành công (59)
+[2026-04-14 00:40:31 DEBUG Log:30] Load map hú búuuuuuuuuuuuuuu item template thành công (2068)
+[2026-04-14 00:40:31 DEBUG Log:30] Load map item option template thành công (255)
+[2026-04-14 00:40:32 DEBUG Log:30] Load shop thành công (58)
+[2026-04-14 00:40:32 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-14 00:40:32 DEBUG Log:30] Load ratio round thành công! 
+[2026-04-14 00:40:32 DEBUG Log:30] Load reward máy g?p thú th??ng round thành công! 
+[2026-04-14 00:40:32 DEBUG Log:30] Load reward g?p thú cao c?p thành công! 
+[2026-04-14 00:40:32 DEBUG Log:30] Load reward lucky round thành công! 
+[2026-04-14 00:40:32 DEBUG Log:30] Load reward lucky round thành công (82)
+[2026-04-14 00:40:32 DEBUG Log:30] Load mob template thành công (96)
+[2026-04-14 00:40:32 DEBUG Log:30] Load npc template thành công (92)
+[2026-04-14 00:40:33 DEBUG Log:30] Init map thành công!
+[2026-04-14 00:40:33 DEBUG Log:30] Load clan thành công (41), clan next id: 229
+[2026-04-14 00:40:33 DEBUG Log:21] T?ng th?i gian load database: 2755(ms)
+[2026-04-14 00:40:35 DEBUG Log:21] Start server......... Current thread: 3216
